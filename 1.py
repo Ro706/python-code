@@ -1,9 +1,7 @@
-GNU nano 4.6               1.py
-def hello():
-    print "hello,today's topic is gravity:-"
-hello()
-print "Gravity is the force of attraction between any two>
 
+def hello():
+    Print "hello bro"
+hello()
 def gravity():
     return (G * m1 * m2 / r)
 G=input("G=")
